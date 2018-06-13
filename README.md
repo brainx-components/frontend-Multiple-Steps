@@ -7,7 +7,7 @@ The goal of this is to save the time of developer by providing him/her all basic
 
 ## Getting Started
 
-There is nothing complex.just clone the project and BOOM.
+There is nothing complex, just clone the project and BOOM.
 
 
 ### Screenshots of UI:
@@ -20,7 +20,7 @@ There is nothing complex.just clone the project and BOOM.
 
 ## Authors
 
- ** Brainx Teachnologies** - 
+ ** Brainx Teachnologies** 
 
 
 
