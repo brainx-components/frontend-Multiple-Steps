@@ -13,7 +13,7 @@ There is nothing complex.just clone the project and BOOM.
 ### Screenshots of UI:
 
 
-![alt text](multiple-steps.png)
+![alt text](https://brainx-components.github.io/frontend-Multiple-Steps/multiple-steps.png)
 
 ## Contributing
 
