@@ -1,4 +1,4 @@
-# frontend-Multiple-Steps
+# Frontend-Multiple-Steps
 
 ## What is Frontend-multiple-Steps?
 
