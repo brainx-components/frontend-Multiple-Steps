@@ -2,8 +2,8 @@
 
 ## What is Frontend-multiple-Steps?
 
-This is a vary basic multiple steps form buid on HTML5 boilerplate using css,html 5 and jquery. This will help you to speed up your work. 
-The goal of this is to save the time of developer by providing him/her all basics to get started. 
+This is basic multiple steps form buid on HTML5 boilerplate using css,html5 and jquery. This will help you to speed up your work. 
+The goal is to save the time of developer by providing him/her all basics to get started. 
 
 ## Getting Started
 
