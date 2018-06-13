@@ -10,7 +10,7 @@ The goal is to save the time of developer by providing him/her all basics to get
 There is nothing complex, just clone the project and BOOM.
 
 
-### Screenshots of UI:
+### Screenshot of UI:
 
 
 ![alt text](https://github.com/brainx-components/frontend-Multiple-Steps/blob/master/multiple-steps.PNG)
